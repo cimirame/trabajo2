@@ -1,0 +1,87 @@
+/*h1{
+    color:blue
+}
+p{
+    color:blueviolet
+}*/
+/*aaplicando clases
+.colorverde{
+    color: green;
+}*/
+
+/*aplicvando id */
+
+/*p.colorvioleta{
+    color: blueviolet;
+}*/
+
+/*#seccion-noticias article{
+    color: coral;
+}*/
+/*
+#seccion-noticias.titulo-noticia{
+    color: aqua;
+}
+.titulo-noticis{
+    color: red;
+}
+
+#seccion-noticias .tutilo-noticia span{
+    color: red;
+}
+
+.coloverde{
+    color: green;
+}
+
+p{
+    color: red;
+}*/
+ul{
+    list-style-type: none;
+}
+h1{
+    /*font-style: italic;*/
+    font-weight: normal;}
+
+    /*#noticia-1{
+        font-size: 16px;
+    }*/
+
+    /*html{
+        font-size: 16px;
+    }
+
+}#noticia-1 p{
+   /* font-size: 16px;  valor por defecto*/
+
+    /* valor relativo al valor de font-size de su padre
+    font-size: 1em;*/
+    /* valor  relativo al valor del font size elemento raiz
+*/
+   
+#noticia-1 p{
+     font-size: 1rem ;
+     font-family: 'Roboto Mono', monospace;
+     font-weight: 100;
+     text-align: justify;
+    /* background-color: bisque;*/
+     /*imagen de fondo */
+
+     background-image: url(../img/perrito.jpg);/*para poner varios puedo poner varias ur*/
+     height: 80vh;
+     background-repeat: no-repeat;
+     /*background-size: cambioar el tamaño;*/
+     /*background-position: cemter etc para pocisionar la imagen;*/
+
+    }
+
+    h1{
+        text-align: center;
+    }
+    
+    a{
+        text-decoration: solid;
+    }
+
+
